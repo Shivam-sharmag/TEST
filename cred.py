@@ -6,7 +6,7 @@ twilionumber = '+16018846446'
 twiliosmsnumber = '+16018846446'
 
 #FC Bot
-API_TOKEN = "5856195740:AAFaDbvuIYUfppYSXuG146BJbSiZZ1ACZ4g"
+API_TOKEN = "6249501225:AAFLgFQvIyWdo-_C9Ut1G4ue7GlaWagXxtM"
 
 #Host URL
 callurl = 'https://e836-196-190-61-63.eu.ngrok.io'
